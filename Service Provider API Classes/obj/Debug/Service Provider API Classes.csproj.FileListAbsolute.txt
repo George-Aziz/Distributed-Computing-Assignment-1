@@ -1,0 +1,5 @@
+C:\Users\George\source\repos\19765453_DC_Assignment_01\Service Provider API Classes\bin\Debug\Service Provider API Classes.dll
+C:\Users\George\source\repos\19765453_DC_Assignment_01\Service Provider API Classes\bin\Debug\Service Provider API Classes.pdb
+C:\Users\George\source\repos\19765453_DC_Assignment_01\Service Provider API Classes\obj\Debug\Service Provider API Classes.csproj.CoreCompileInputs.cache
+C:\Users\George\source\repos\19765453_DC_Assignment_01\Service Provider API Classes\obj\Debug\Service Provider API Classes.dll
+C:\Users\George\source\repos\19765453_DC_Assignment_01\Service Provider API Classes\obj\Debug\Service Provider API Classes.pdb

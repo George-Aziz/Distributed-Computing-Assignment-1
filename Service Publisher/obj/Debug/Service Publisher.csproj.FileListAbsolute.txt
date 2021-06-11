@@ -1,0 +1,16 @@
+C:\Users\George\source\repos\19765453_DC_Assignment_01\Service Publisher\bin\Debug\Service Publisher.exe.config
+C:\Users\George\source\repos\19765453_DC_Assignment_01\Service Publisher\bin\Debug\Service Publisher.exe
+C:\Users\George\source\repos\19765453_DC_Assignment_01\Service Publisher\bin\Debug\Service Publisher.pdb
+C:\Users\George\source\repos\19765453_DC_Assignment_01\Service Publisher\bin\Debug\AuthLib.dll
+C:\Users\George\source\repos\19765453_DC_Assignment_01\Service Publisher\bin\Debug\Newtonsoft.Json.dll
+C:\Users\George\source\repos\19765453_DC_Assignment_01\Service Publisher\bin\Debug\Registry API Classes.dll
+C:\Users\George\source\repos\19765453_DC_Assignment_01\Service Publisher\bin\Debug\RestSharp.dll
+C:\Users\George\source\repos\19765453_DC_Assignment_01\Service Publisher\bin\Debug\AuthLib.pdb
+C:\Users\George\source\repos\19765453_DC_Assignment_01\Service Publisher\bin\Debug\Registry API Classes.pdb
+C:\Users\George\source\repos\19765453_DC_Assignment_01\Service Publisher\bin\Debug\Newtonsoft.Json.xml
+C:\Users\George\source\repos\19765453_DC_Assignment_01\Service Publisher\bin\Debug\RestSharp.xml
+C:\Users\George\source\repos\19765453_DC_Assignment_01\Service Publisher\obj\Debug\Service Publisher.csprojAssemblyReference.cache
+C:\Users\George\source\repos\19765453_DC_Assignment_01\Service Publisher\obj\Debug\Service Publisher.csproj.CoreCompileInputs.cache
+C:\Users\George\source\repos\19765453_DC_Assignment_01\Service Publisher\obj\Debug\Service Publisher.csproj.CopyComplete
+C:\Users\George\source\repos\19765453_DC_Assignment_01\Service Publisher\obj\Debug\Service Publisher.exe
+C:\Users\George\source\repos\19765453_DC_Assignment_01\Service Publisher\obj\Debug\Service Publisher.pdb

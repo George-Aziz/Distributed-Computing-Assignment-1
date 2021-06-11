@@ -1,0 +1,5 @@
+C:\Users\George\source\repos\19765453_DC_Assignment_01\AuthLib\bin\Debug\AuthLib.dll
+C:\Users\George\source\repos\19765453_DC_Assignment_01\AuthLib\bin\Debug\AuthLib.pdb
+C:\Users\George\source\repos\19765453_DC_Assignment_01\AuthLib\obj\Debug\AuthLib.csproj.CoreCompileInputs.cache
+C:\Users\George\source\repos\19765453_DC_Assignment_01\AuthLib\obj\Debug\AuthLib.dll
+C:\Users\George\source\repos\19765453_DC_Assignment_01\AuthLib\obj\Debug\AuthLib.pdb

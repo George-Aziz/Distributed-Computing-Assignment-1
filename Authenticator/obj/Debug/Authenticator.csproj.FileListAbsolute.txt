@@ -1,0 +1,10 @@
+C:\Users\George\source\repos\19765453_DC_Assignment_01\Authenticator\bin\Debug\Authenticator.exe.config
+C:\Users\George\source\repos\19765453_DC_Assignment_01\Authenticator\bin\Debug\Authenticator.exe
+C:\Users\George\source\repos\19765453_DC_Assignment_01\Authenticator\bin\Debug\Authenticator.pdb
+C:\Users\George\source\repos\19765453_DC_Assignment_01\Authenticator\bin\Debug\AuthLib.dll
+C:\Users\George\source\repos\19765453_DC_Assignment_01\Authenticator\bin\Debug\AuthLib.pdb
+C:\Users\George\source\repos\19765453_DC_Assignment_01\Authenticator\obj\Debug\Authenticator.csprojAssemblyReference.cache
+C:\Users\George\source\repos\19765453_DC_Assignment_01\Authenticator\obj\Debug\Authenticator.csproj.CoreCompileInputs.cache
+C:\Users\George\source\repos\19765453_DC_Assignment_01\Authenticator\obj\Debug\Authenticator.csproj.CopyComplete
+C:\Users\George\source\repos\19765453_DC_Assignment_01\Authenticator\obj\Debug\Authenticator.exe
+C:\Users\George\source\repos\19765453_DC_Assignment_01\Authenticator\obj\Debug\Authenticator.pdb

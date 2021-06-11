@@ -1,0 +1,30 @@
+[
+  {
+    "Name": "ADDTwoNumbers",
+    "Description": "Adds Two Numbers",
+    "APIEndpoint": "https://localhost:44325/api/Calculations/AddTwo",
+    "NumberOfOperands": 2,
+    "OperandType": "integer"
+  },
+  {
+    "Name": "ADDThreeNumbers",
+    "Description": "Adds three numbers",
+    "APIEndpoint": "https://localhost:44325/api/Calculations/AddThree",
+    "NumberOfOperands": 3,
+    "OperandType": "Integer"
+  },
+  {
+    "Name": "PrimeCheck",
+    "Description": "Checks if a inputted number is a prime number",
+    "APIEndpoint": "https://localhost:44325/api/Calculations/isPrime",
+    "NumberOfOperands": 1,
+    "OperandType": "integer"
+  },
+  {
+    "Name": "GenPrimeInRange",
+    "Description": "Generates prime numbers in between 2 numbers",
+    "APIEndpoint": "https://localhost:44325/api/Calculations/GenPrimeInRange",
+    "NumberOfOperands": 2,
+    "OperandType": "integer"
+  }
+]

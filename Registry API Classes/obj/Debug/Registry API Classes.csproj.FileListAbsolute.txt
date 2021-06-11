@@ -1,0 +1,5 @@
+C:\Users\George\source\repos\19765453_DC_Assignment_01\Registry API Classes\bin\Debug\Registry API Classes.dll
+C:\Users\George\source\repos\19765453_DC_Assignment_01\Registry API Classes\bin\Debug\Registry API Classes.pdb
+C:\Users\George\source\repos\19765453_DC_Assignment_01\Registry API Classes\obj\Debug\Registry API Classes.csproj.CoreCompileInputs.cache
+C:\Users\George\source\repos\19765453_DC_Assignment_01\Registry API Classes\obj\Debug\Registry API Classes.dll
+C:\Users\George\source\repos\19765453_DC_Assignment_01\Registry API Classes\obj\Debug\Registry API Classes.pdb

@@ -1,0 +1,34 @@
+﻿<Window x:Class="Client_GUI.ServicesTest"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Client_GUI"
+        mc:Ignorable="d"
+        Title="ServicesTest" Height="450" Width="800"
+        Closed="Window_Closed">
+    <Grid x:Name="MainDisplay">
+        <ProgressBar Name="ProgBar" HorizontalAlignment="Left" Height="18" Margin="10,391,0,0" VerticalAlignment="Top" Width="772"/>
+        <TextBox Name="ServiceSearchBox" HorizontalAlignment="Left" Margin="10,12,0,0" TextWrapping="Wrap" Text="Service Search" VerticalAlignment="Top" Width="545"/>
+        <Button Name="SearchServiceBtn" Content="Search Service" HorizontalAlignment="Left" Margin="568,11,0,0" VerticalAlignment="Top" Width="100" Click="SearchService_Btn"/>
+        <Button Name="AllServicesBtn" Content="Find All Services" HorizontalAlignment="Left" Margin="682,11,0,0" VerticalAlignment="Top" Width="100" Click="AllServices_Btn"/>
+        <ComboBox Name="ServiceDropMenu"  IsEditable="True" IsReadOnly="True" Text="-- Please select a service --" HorizontalAlignment="Left" Margin="10,45,0,0" VerticalAlignment="Top" Width="772" SelectionChanged="ServiceDropMenu_SelectionChanged"/>
+        <Line X1="800" Y1="0" Margin="0,85,0,0" Stroke="Gray" StrokeThickness="3" />
+        <TextBlock HorizontalAlignment="Left" Margin="10,103,0,0" TextWrapping="Wrap" Text="Name: " VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="10,133,0,0" TextWrapping="Wrap" Text="Description: " VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="10,163,0,0" TextWrapping="Wrap" Text="API Endpoint: " VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="10,193,0,0" TextWrapping="Wrap" Text="Number of Operands: " VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="10,223,0,0" TextWrapping="Wrap" Text="Operand Type: " VerticalAlignment="Top"/>
+        <TextBox Name="ServiceName" HorizontalAlignment="Left" Height="22" Margin="133,103,0,0" TextWrapping="Wrap" Text="Service Name" VerticalAlignment="Top" Width="324" IsReadOnly="True"/>
+        <TextBox Name="ServiceDesc" HorizontalAlignment="Left" Height="22" Margin="133,133,0,0" TextWrapping="Wrap" Text="Service Description" VerticalAlignment="Top" Width="324" IsReadOnly="True"/>
+        <TextBox Name="ServicePoint" HorizontalAlignment="Left" Height="22" Margin="133,163,0,0" TextWrapping="Wrap" Text="Service API Endpoint" VerticalAlignment="Top" Width="324" IsReadOnly="True"/>
+        <TextBox Name="ServiceNumOfOp" HorizontalAlignment="Left" Height="22" Margin="133,193,0,0" TextWrapping="Wrap" Text="Service Number of Operands" VerticalAlignment="Top" Width="324"  IsReadOnly="True"/>
+        <TextBox Name="ServiceOperandType" HorizontalAlignment="Left" Height="22" Margin="133,223,0,0" TextWrapping="Wrap" Text="Service Operand Type" VerticalAlignment="Top" Width="324" IsReadOnly="True"/>
+        <Line X1="0" Y1="150" Margin="470,100,0,0" Stroke="Gray" StrokeThickness="1" />
+        <Button Name="RunServiceBtn" Content="Run Service" HorizontalAlignment="Left" Margin="480,261,0,0" VerticalAlignment="Top" Width="302" Click="RunService_Btn" Visibility="Hidden"/>
+        <TextBlock HorizontalAlignment="Left" Margin="10,263,0,0" TextWrapping="Wrap" Text="Service Output:" VerticalAlignment="Top"/>
+        <TextBox Name="ServiceOutput" HorizontalAlignment="Left" Height="100" Margin="10,286,0,0" TextWrapping="Wrap" Text="Results" VerticalAlignment="Top" Width="772" />
+        
+
+    </Grid>
+</Window>

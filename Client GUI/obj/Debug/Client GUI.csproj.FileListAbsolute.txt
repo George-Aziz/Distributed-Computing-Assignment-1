@@ -1,0 +1,49 @@
+C:\Users\George\source\repos\19765453_DC_Assignment_01\Client GUI\bin\Debug\Client GUI.exe.config
+C:\Users\George\source\repos\19765453_DC_Assignment_01\Client GUI\bin\Debug\Client GUI.exe
+C:\Users\George\source\repos\19765453_DC_Assignment_01\Client GUI\bin\Debug\Client GUI.pdb
+C:\Users\George\source\repos\19765453_DC_Assignment_01\Client GUI\bin\Debug\AuthLib.dll
+C:\Users\George\source\repos\19765453_DC_Assignment_01\Client GUI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\George\source\repos\19765453_DC_Assignment_01\Client GUI\bin\Debug\Registry API Classes.dll
+C:\Users\George\source\repos\19765453_DC_Assignment_01\Client GUI\bin\Debug\RestSharp.dll
+C:\Users\George\source\repos\19765453_DC_Assignment_01\Client GUI\bin\Debug\Service Provider API Classes.dll
+C:\Users\George\source\repos\19765453_DC_Assignment_01\Client GUI\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\George\source\repos\19765453_DC_Assignment_01\Client GUI\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\George\source\repos\19765453_DC_Assignment_01\Client GUI\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\George\source\repos\19765453_DC_Assignment_01\Client GUI\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\George\source\repos\19765453_DC_Assignment_01\Client GUI\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\George\source\repos\19765453_DC_Assignment_01\Client GUI\bin\Debug\AuthLib.pdb
+C:\Users\George\source\repos\19765453_DC_Assignment_01\Client GUI\bin\Debug\Registry API Classes.pdb
+C:\Users\George\source\repos\19765453_DC_Assignment_01\Client GUI\bin\Debug\Service Provider API Classes.pdb
+C:\Users\George\source\repos\19765453_DC_Assignment_01\Client GUI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\George\source\repos\19765453_DC_Assignment_01\Client GUI\bin\Debug\RestSharp.xml
+C:\Users\George\source\repos\19765453_DC_Assignment_01\Client GUI\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\George\source\repos\19765453_DC_Assignment_01\Client GUI\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\George\source\repos\19765453_DC_Assignment_01\Client GUI\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\George\source\repos\19765453_DC_Assignment_01\Client GUI\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\George\source\repos\19765453_DC_Assignment_01\Client GUI\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\George\source\repos\19765453_DC_Assignment_01\Client GUI\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\George\source\repos\19765453_DC_Assignment_01\Client GUI\bin\Debug\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\George\source\repos\19765453_DC_Assignment_01\Client GUI\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\George\source\repos\19765453_DC_Assignment_01\Client GUI\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\George\source\repos\19765453_DC_Assignment_01\Client GUI\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\George\source\repos\19765453_DC_Assignment_01\Client GUI\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\George\source\repos\19765453_DC_Assignment_01\Client GUI\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\George\source\repos\19765453_DC_Assignment_01\Client GUI\obj\Debug\Client GUI.csprojAssemblyReference.cache
+C:\Users\George\source\repos\19765453_DC_Assignment_01\Client GUI\obj\Debug\Login.g.cs
+C:\Users\George\source\repos\19765453_DC_Assignment_01\Client GUI\obj\Debug\MainWindow.g.cs
+C:\Users\George\source\repos\19765453_DC_Assignment_01\Client GUI\obj\Debug\Registration.g.cs
+C:\Users\George\source\repos\19765453_DC_Assignment_01\Client GUI\obj\Debug\ServicesTest.g.cs
+C:\Users\George\source\repos\19765453_DC_Assignment_01\Client GUI\obj\Debug\App.g.cs
+C:\Users\George\source\repos\19765453_DC_Assignment_01\Client GUI\obj\Debug\Client GUI_MarkupCompile.cache
+C:\Users\George\source\repos\19765453_DC_Assignment_01\Client GUI\obj\Debug\Client GUI_MarkupCompile.lref
+C:\Users\George\source\repos\19765453_DC_Assignment_01\Client GUI\obj\Debug\Login.baml
+C:\Users\George\source\repos\19765453_DC_Assignment_01\Client GUI\obj\Debug\MainWindow.baml
+C:\Users\George\source\repos\19765453_DC_Assignment_01\Client GUI\obj\Debug\Registration.baml
+C:\Users\George\source\repos\19765453_DC_Assignment_01\Client GUI\obj\Debug\ServicesTest.baml
+C:\Users\George\source\repos\19765453_DC_Assignment_01\Client GUI\obj\Debug\Client GUI.g.resources
+C:\Users\George\source\repos\19765453_DC_Assignment_01\Client GUI\obj\Debug\Client_GUI.Properties.Resources.resources
+C:\Users\George\source\repos\19765453_DC_Assignment_01\Client GUI\obj\Debug\Client GUI.csproj.GenerateResource.cache
+C:\Users\George\source\repos\19765453_DC_Assignment_01\Client GUI\obj\Debug\Client GUI.csproj.CoreCompileInputs.cache
+C:\Users\George\source\repos\19765453_DC_Assignment_01\Client GUI\obj\Debug\Client GUI.csproj.CopyComplete
+C:\Users\George\source\repos\19765453_DC_Assignment_01\Client GUI\obj\Debug\Client GUI.exe
+C:\Users\George\source\repos\19765453_DC_Assignment_01\Client GUI\obj\Debug\Client GUI.pdb
